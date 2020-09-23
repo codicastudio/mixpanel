@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/mixpanel",
+    "name": "codica-studio/mixpanel",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/mixpanel",
+    "homepage": "https://github.com/codica-studio/mixpanel",
     "license": "MIT",
     "authors": [
         {
